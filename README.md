@@ -11,7 +11,7 @@ nerede ne yapacagınızı dosya içerisinde yorum satırlarına yazdım, telegra
 daha sonra termux üzerinden bunu çalıştırın, termux python paketlerinin kurulu olduguna emin olun, ve termux başlangıç ayarlarını yapın
 daha sonra termux üzerinden
 şu kodları yazın:
-
+<br>
 
 git clone https://github.com/yasincanolcay/TelegramBot.git<br>
 cd TelegramBot<br>
