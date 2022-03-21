@@ -9,9 +9,17 @@ tasarım kodlarını silin ve oluşturdugumuz fonksiyonu direkt olarak çalışt
 Telefondan termux üzerinden çalıştırmak için lütfen termuxbot yazan dosyayı açıp gerekli düzenlemeleri yapın,
 nerede ne yapacagınızı dosya içerisinde yorum satırlarına yazdım, telegram üzerinden api alın ve gerekli yerlere apinizi yazın
 daha sonra termux üzerinden bunu çalıştırın, termux python paketlerinin kurulu olduguna emin olun, ve termux başlangıç ayarlarını yapın
-daha sonra termux üzerinden şu kodları yazın:
+daha sonra termux üzerinden
+şu kodları yazın:
 <code>
 git clone https://github.com/yasincanolcay/TelegramBot.git
 cd TelegramBot
+python termuxbot.py
+</code>
+<h3>Veya</h3>
+<code>
+git clone https://github.com/yasincanolcay/TelegramBot.git
+cd TelegramBot
+chmod +x termuxbot.py
 python termuxbot.py
 </code>
