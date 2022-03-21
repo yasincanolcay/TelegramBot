@@ -12,17 +12,16 @@ daha sonra termux üzerinden bunu çalıştırın, termux python paketlerinin ku
 daha sonra termux üzerinden
 şu kodları yazın:
 
-<code>
-git clone https://github.com/yasincanolcay/TelegramBot.git</br>
-cd TelegramBot</br>
+
+git clone https://github.com/yasincanolcay/TelegramBot.git<br>
+cd TelegramBot<br>
 python termuxbot.py  
- </>
 
 <h3>Veya</h3>
 
-<code>
-git clone https://github.com/yasincanolcay/TelegramBot.git<br/>
-cd TelegramBot<br/>
-chmod +x termuxbot.py
-python termuxbot.py
-</code>
+
+git clone https://github.com/yasincanolcay/TelegramBot.git<br>
+cd TelegramBot<br>
+chmod +x termuxbot.py<br>
+python termuxbot.py<br>
+
