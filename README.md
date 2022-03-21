@@ -13,8 +13,8 @@ daha sonra termux üzerinden
 şu kodları yazın:
 
 <code>
-git clone https://github.com/yasincanolcay/TelegramBot.git<br/>
-cd TelegramBot<br/>
+git clone https://github.com/yasincanolcay/TelegramBot.git</br>
+cd TelegramBot</br>
 python termuxbot.py  
  </>
 
