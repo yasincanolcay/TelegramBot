@@ -11,19 +11,18 @@ nerede ne yapacagınızı dosya içerisinde yorum satırlarına yazdım, telegra
 daha sonra termux üzerinden bunu çalıştırın, termux python paketlerinin kurulu olduguna emin olun, ve termux başlangıç ayarlarını yapın
 daha sonra termux üzerinden
 şu kodları yazın:
+
 <code>
-git clone https://github.com/yasincanolcay/TelegramBot.git
-</code>
-<code>
-  cd TelegramBot
+git clone https://github.com/yasincanolcay/TelegramBot.git<br/>
+cd TelegramBot<br/>
+python termuxbot.py  
  </>
- <code>
-python termuxbot.py
- </code>
+
 <h3>Veya</h3>
+
 <code>
-git clone https://github.com/yasincanolcay/TelegramBot.git
-cd TelegramBot
+git clone https://github.com/yasincanolcay/TelegramBot.git<br/>
+cd TelegramBot<br/>
 chmod +x termuxbot.py
 python termuxbot.py
 </code>
