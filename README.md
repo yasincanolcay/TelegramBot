@@ -25,3 +25,5 @@ cd TelegramBot<br>
 chmod +x termuxbot.py<br>
 python termuxbot.py<br>
 
+<h2>BURADA TERMUX KULLANIMLARI BELİRTİLMİŞ</h2>
+https://emrecelikkol.medium.com/android-ve-linux-termux-47c9c0686f83
